@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Alex!
 - 👀 Estou em early stages (iniciando) da minha carreira na área de T.I e pretendo ir longe!.
-- 🌱 Atualmente estou focado em HTML, CSS e adicionando JS como complemtento.
+- 🌱 Atualmente estou estudando HTML, CSS e adicionando JS como complemento além de Modelagem de DBs (MySQL).
 - 💞️ Estudante de Adminstração e Análise e Desenvolvimento de Sistemas.
 - 📫 Qualquer coisa, é só entrar em contato no e-mail: alexsnider8@gmail.com.
 
