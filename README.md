@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou estudando HTML5, CSS e adicionando JS como complemento além de Modelagem de DBs (MySQL).
 - 💞️ Estudante de Adminstração e Análise e Desenvolvimento de Sistemas.
 - 📫 Qualquer coisa, é só entrar em contato no e-mail: alexsnider8@gmail.com
-### HTML5 (Begginer), CSS (Begginer), SQL (Begginer), JS (Learning), PYTHON (Begginer)
+### HTML5 (Beginner), CSS (Beginner), SQL (Beginner), JS (Learning), PYTHON (Beginner)
 ### Objetivos: Avançar no conhecimento das linguagens citadas e estudar novas, ex: C#
 
 <!---
