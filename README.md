@@ -1,10 +1,11 @@
-- 👋 Olá, me chamo Alex!
-- 👀 Estou em early stages (iniciando) da minha carreira na área de T.I e pretendo ir longe!.
-- 🌱 Atualmente estou estudando HTML, CSS e adicionando JS como complemento além de Modelagem de DBs (MySQL).
-- 💞️ Estudante de Adminstração e Análise e Desenvolvimento de Sistemas.
-- 📫 Qualquer coisa, é só entrar em contato no e-mail: alexsnider8@gmail.com.
+# Olá, me chamo Alex!
 
-- HTML, CSS, SQL, JS, PYTHON...
+- 👀 Estou em early stages (início) da minha carreira na área de T.I e pretendo ir longe!
+- 🌱 Atualmente estou estudando HTML5, CSS e adicionando JS como complemento além de Modelagem de DBs (MySQL).
+- 💞️ Estudante de Adminstração e Análise e Desenvolvimento de Sistemas.
+- 📫 Qualquer coisa, é só entrar em contato no e-mail: alexsnider8@gmail.com
+### HTML5 (Begginer), CSS (Begginer), SQL (Begginer), JS (Learning), PYTHON (Begginer)
+### Objetivos: Avançar no conhecimento das linguagens citadas e estudar novas, ex: C#
 
 <!---
 AlexSnider/AlexSnider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
