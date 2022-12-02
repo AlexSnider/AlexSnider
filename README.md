@@ -1,10 +1,10 @@
 # Olá, me chamo Alex!
 
 - 👀 Estou em early stages (início) da minha carreira na área de T.I e pretendo ir longe!
-- 🌱 Atualmente estou estudando HTML5, CSS e adicionando JS como complemento além de Modelagem de DBs (MySQL).
+- 🌱 Atualmente estou estudando HTML5, CSS e adicionando JS como complemento além de Python e Modelagem de DBs (MySQL).
 - 💞️ Estudante de Adminstração e Análise e Desenvolvimento de Sistemas.
 - 📫 Qualquer coisa, é só entrar em contato no e-mail: alexsnider8@gmail.com
-### HTML5 (Beginner), CSS (Beginner), SQL (Beginner), JS (Learning), PYTHON (Beginner)
+### HTML5 (Beginner), CSS (Beginner), SQL (Beginner), JS (Learning), PYTHON (Beginner), Bootstrap (Learning);
 ### Objetivos: Avançar no conhecimento das linguagens citadas e estudar novas, ex: C#
 
 <!---
