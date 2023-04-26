@@ -5,7 +5,7 @@
 - 💞️ Graduado* em Adminstração de Empresas e Estudante de Análise e Desenvolvimento de Sistemas.
 - 📫 Qualquer coisa, é só entrar em contato no e-mail: alexsnider8@gmail.com
 ### Conhecimentos (básicos): HTML5, CSS, MySQL e Python;
-### Em estudo: Bootstrap, Javascript, Nodejs + Express;
+### Em estudo: Bootstrap, Javascript, Nodejs + Express, React;
 
 <!---
 AlexSnider/AlexSnider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
