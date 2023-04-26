@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou estudando Javascrip, Nodejs + Express e adicionando MySQL ao conjunto.
 - 💞️ Graduado* em Adminstração de Empresas e Estudante de Análise e Desenvolvimento de Sistemas.
 - 📫 Qualquer coisa, é só entrar em contato no e-mail: alexsnider8@gmail.com
-### Conhecimentos (básicos): HTML5, CSS, MySQL e Python;
+### Conhecimentos (básicos): HTML5, CSS, MySQL (CRUD) e Python;
 ### Em estudo: Bootstrap, Javascript, Nodejs + Express, React;
 
 <!---
