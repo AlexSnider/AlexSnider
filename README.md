@@ -1,13 +1,13 @@
 # Olá, me chamo Alex!
 
 - 👀 Estou em early stages (início) da minha carreira na área de T.I e pretendo ir longe!
-- 
+
 - 🌱 Atualmente estou estudando Javascrip, Nodejs + Express e adicionando MySQL ao conjunto.
-- 
+
 - 💞️ Graduado* em Adminstração de Empresas e Estudante de Análise e Desenvolvimento de Sistemas.
-- 
+
 - 📫 Qualquer coisa, é só entrar em contato no e-mail: alexsnider8@gmail.com
-- 
+
 ### Conhecimentos: HTML5, CSS, MySQL (CRUD) e Python;
 ### Em estudo: Bootstrap, Javascript, Nodejs + Express, React;
 
