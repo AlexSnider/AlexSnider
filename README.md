@@ -11,7 +11,7 @@
 ### Conhecimentos: React + Node.js / HTML | CSS | JavaScript | Python | MySQL | Sequelize | Git;
 ### Em estudo: Swagger (Documentação de API), Nodemailer, React, TypeScript*;
 ### Projeto do Momento: API para mini e-commerce.
-
+<br/>
 <!---
 AlexSnider/AlexSnider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
