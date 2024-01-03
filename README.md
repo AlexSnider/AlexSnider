@@ -9,7 +9,7 @@
 - 📫 Qualquer coisa, é só entrar em contato no e-mail: alexsnider8@gmail.com
 
 ### Conhecimentos: React + Node.js / HTML | CSS | JavaScript | Python | MySQL | Sequelize | Git;
-### Em estudo: Swagger (Documentação de API), Nodemailer, React, TypeScript*;
+### Em estudo: React, TypeScript;
 ### Projeto do Momento: API para mini e-commerce.
 <br/>
 <!---
