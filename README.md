@@ -2,7 +2,7 @@
 
 - 👀 Estou em early stages (início) da minha carreira na área de T.I e pretendo ir longe!
 
-- 🌱 Atualmente estou aplicando as tecnologias Javascrip, Node.js + Express, MySQL, Sequelize e React.js em projetos pessoais.
+- 🌱 Atualmente estou aplicando as tecnologias JavaScrip, Node.js + Express, MySQL, Sequelize e React.js em projetos pessoais.
 
 - 💞️ Graduado* em Adminstração de Empresas e Estudante de Análise e Desenvolvimento de Sistemas.
 
