@@ -1,6 +1,8 @@
 # Olá, seja muito bem vindo(a) ao meu GitHub!
 
-Me chamo Alex e sou desenvolvedor Back-End há um ano e com ênfase em API REST.
+Me chamo Alex e sou desenvolvedor Back-End (API REST) há um ano. <br/>
+Durante a minha jornado como Dev, adquiri maior afinidade no lado servidor. <br/>
+Atualmente, estou estudando e aplicado inúmeros conceitos aos meu projetos a fim de alcançar o meu melhor potencial!
 
 ## Minhas habilidades atuais são:
 #### Linguagens de Programação: `JavaScript, TypeScript, Python;`
