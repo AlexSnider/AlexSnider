@@ -17,6 +17,7 @@ Agradecimentos à [Vitor Hugo](https://www.linkedin.com/in/vitorhcs/) (mentor) p
 #### Web Development: `HTML, CSS, React.js`
 #### Banco de Dados: `MySQL, PostgreSQL, MongoDB`
 #### O.R.M: `Sequelize – Prisma`
+#### Testes Unitários: `Jest`
 #### Sistemas de Containers: `Docker`
 #### Métricas (observabilidade): `OpenTelemetry – Jaeger Tracer`
 #### Documentações: `Swagger` <br/><br/>
