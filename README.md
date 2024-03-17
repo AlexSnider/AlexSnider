@@ -6,7 +6,7 @@ Atualmente, estou estudando e aplicado inúmeros conceitos aos meu projetos a fi
 
 Contato: `alexsnider8@gmail.com`
 
-## Confira: [API REST MINI-E-COMMERCE V2.0](https://github.com/AlexSnider/Mini-E-commerce-TS-Prisma) [API REST V1.0](https://github.com/AlexSnider/Projeto-API-e-commerce-Node.js)
+## Confira: [API REST MINI-E-COMMERCE v2.0](https://github.com/AlexSnider/Mini-E-commerce-TS-Prisma), [v1.0](https://github.com/AlexSnider/Projeto-API-e-commerce-Node.js)
 
 ## Minhas habilidades atuais são:
 #### Linguagens de Programação: `JavaScript, TypeScript, Python`
