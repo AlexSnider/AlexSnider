@@ -1,6 +1,8 @@
 # Olá, seja muito bem vindo(a) ao meu GitHub!
 
-# Minhas habilidades atuais são:
+Me chamo Alex e sou desenvolvedor Back-End com ênfase en API REST.
+
+## Minhas habilidades atuais são:
 
 #### Linguagens de Programação: `JavaScript, TypeScript, Python;`
 #### Frameworks: `Express.js;`
