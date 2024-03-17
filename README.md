@@ -1,18 +1,16 @@
 # Olá, seja muito bem vindo(a) ao meu GitHub!
 
-# Desenvolvedor Back-End - API REST
-
 # Minhas habilidades atuais são:
 
-Linguagens de Programação: `JavaScript, TypeScript, Python;` <br/>
-Frameworks: `Express.js;` <br/>
-Server Development: `Node.js;` <br/>
-Web Development: `HTML, CSS, React.js;` <br/>
-Banco de Dados: `MySQL, PostgreSQL, MongoDB;` <br/>
-O.R.M: `Sequelize – Prisma;` <br/>
-Sistemas de Containers: `Docker;` <br/>
-Métricas (observabilidade): `OpenTelemetry – Jaeger Tracer;` <br/>
-Documentações: `Swagger.` <br/>
+### Linguagens de Programação: `JavaScript, TypeScript, Python;` <br/>
+### Frameworks: `Express.js;` <br/>
+### Server Development: `Node.js;` <br/>
+### Web Development: `HTML, CSS, React.js;` <br/>
+### Banco de Dados: `MySQL, PostgreSQL, MongoDB;` <br/>
+### O.R.M: `Sequelize – Prisma;` <br/>
+### Sistemas de Containers: `Docker;` <br/>
+### Métricas (observabilidade): `OpenTelemetry – Jaeger Tracer;` <br/>
+### Documentações: `Swagger.` <br/>
 
 
 
