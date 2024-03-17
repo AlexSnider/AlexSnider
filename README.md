@@ -10,7 +10,7 @@ Agradecimentos à [Vitor Hugo](https://www.linkedin.com/in/vitorhcs/) (mentor) p
 
 ## Projetos: [API REST MINI-E-COMMERCE v2.0](https://github.com/AlexSnider/Mini-E-commerce-TS-Prisma), [v1.0](https://github.com/AlexSnider/Projeto-API-e-commerce-Node.js)
 
-## Minhas habilidades atuais são:
+## Habilidades:
 #### Linguagens de Programação: `JavaScript, TypeScript, Python`
 #### Frameworks: `Express.js`
 #### Server Development: `Node.js`
