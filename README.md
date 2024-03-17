@@ -2,15 +2,15 @@
 
 # Minhas habilidades atuais são:
 
-### Linguagens de Programação: `JavaScript, TypeScript, Python;` <br/>
-### Frameworks: `Express.js;` <br/>
-### Server Development: `Node.js;` <br/>
-### Web Development: `HTML, CSS, React.js;` <br/>
-### Banco de Dados: `MySQL, PostgreSQL, MongoDB;` <br/>
-### O.R.M: `Sequelize – Prisma;` <br/>
-### Sistemas de Containers: `Docker;` <br/>
-### Métricas (observabilidade): `OpenTelemetry – Jaeger Tracer;` <br/>
-### Documentações: `Swagger.` <br/>
+### Linguagens de Programação: `JavaScript, TypeScript, Python;`
+### Frameworks: `Express.js;`
+### Server Development: `Node.js;`
+### Web Development: `HTML, CSS, React.js;`
+### Banco de Dados: `MySQL, PostgreSQL, MongoDB;`
+### O.R.M: `Sequelize – Prisma;`
+### Sistemas de Containers: `Docker;`
+### Métricas (observabilidade): `OpenTelemetry – Jaeger Tracer;`
+### Documentações: `Swagger.`
 
 
 
