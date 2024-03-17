@@ -1,7 +1,7 @@
 # Olá, seja muito bem vindo(a) ao meu GitHub!
 
 Me chamo Alex e sou desenvolvedor Back-End (API REST) há um ano. <br/>
-Durante a minha jornada como Dev, adquiri maior afinidade no lado servidor. <br/>
+Durante a minha jornada como Dev, adquiri maior afinidade no lado servidor.
 Atualmente, estou estudando e aplicado inúmeros conceitos aos meu projetos a fim de alcançar o meu melhor potencial e uma oportunidade no mercado de trabalho.
 
 ## Projeto do momento: [API REST MINI-E-COMMERCE V2.0](https://github.com/AlexSnider/Mini-E-commerce-TS-Prisma)
