@@ -1,9 +1,8 @@
 # Olá, seja muito bem vindo(a) ao meu GitHub!
 
-Me chamo Alex e sou desenvolvedor Back-End com ênfase en API REST.
+Me chamo Alex e sou desenvolvedor Back-End há um ano e com ênfase em API REST.
 
 ## Minhas habilidades atuais são:
-
 #### Linguagens de Programação: `JavaScript, TypeScript, Python;`
 #### Frameworks: `Express.js;`
 #### Server Development: `Node.js;`
@@ -12,12 +11,7 @@ Me chamo Alex e sou desenvolvedor Back-End com ênfase en API REST.
 #### O.R.M: `Sequelize – Prisma;`
 #### Sistemas de Containers: `Docker;`
 #### Métricas (observabilidade): `OpenTelemetry – Jaeger Tracer;`
-#### Documentações: `Swagger.`
-
-
-
-
-   
+#### Documentações: `Swagger.` <br/><br/>
 
 <div>
    <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=AlexSnider&show_icons=true&theme=tokyonight"/>
