@@ -1,7 +1,7 @@
 # Olá, seja muito bem vindo(a) ao meu GitHub!
 
 Me chamo Alex e sou desenvolvedor Back-End (API REST) há um ano.
-Durante minha jornada como Dev, adquiri maior afinidade no lado servidor.
+Durante minha jornada como Dev, adquiri maior afinidade no lado servidor da força.
 Atualmente, estou estudando e aplicado inúmeros conceitos aos meus projetos, a fim de alcançar o meu melhor potencial e uma oportunidade no mercado de trabalho.
 
 ## Contato: [E-mail](https://linktr.ee/contato.alex)
