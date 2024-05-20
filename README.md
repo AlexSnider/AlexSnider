@@ -11,11 +11,11 @@ Atualmente, estou estudando e aplicado inúmeros conceitos aos meus projetos, a 
 ## Projetos: [API REST MINI-E-COMMERCE v2.0](https://github.com/AlexSnider/Mini-E-commerce-TS-Prisma), [v1.0](https://github.com/AlexSnider/Projeto-API-e-commerce-Node.js)
 
 ## Habilidades Técnicas:
-#### Linguagens de Programação: `JavaScript, TypeScript, Python`
+#### Linguagens de Programação: `JavaScript, TypeScript, Java Beginner`
 #### Frameworks: `Express.js`
-#### Server Development: `Node.js`
+#### Server Development: `Node.js, Spring Boot`
 #### Web Development: `HTML, CSS, React.js`
-#### Banco de Dados: `MySQL, PostgreSQL, MongoDB`
+#### Banco de Dados: `MySQL, PostgreSQL`
 #### O.R.M: `Sequelize – Prisma`
 #### Testes Unitários: `Jest`
 #### Sistemas de Containers: `Docker`
