@@ -17,7 +17,7 @@ Atualmente, estou estudando e aplicado inúmeros conceitos aos meus projetos, a 
 #### Web Development: `HTML, CSS, React.js`
 #### Banco de Dados: `MySQL, PostgreSQL`
 #### O.R.M: `Sequelize – Prisma`
-#### Testes Unitários: `Jest`
+#### Testes Unitários: `Jest - Studying`
 #### Sistemas de Containers: `Docker`
 #### Métricas (observabilidade): `OpenTelemetry – Jaeger Tracer`
 #### Documentações: `Swagger` <br/><br/>
