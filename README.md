@@ -8,7 +8,7 @@ Atualmente, estou estudando e aplicado inúmeros conceitos aos meus projetos, a 
 
 ### Agradecimentos à [Vitor Hugo](https://www.linkedin.com/in/vitorhcs/) (mentor) por dedicar seu tempo na revisão dos projetos e novas implementações.
 
-## Projetos: [API REST MINI-E-COMMERCE v2.0](https://github.com/AlexSnider/Mini-E-commerce-TS-Prisma), [v1.0](https://github.com/AlexSnider/Projeto-API-e-commerce-Node.js)
+## Projetos: [API REST MINI-E-COMMERCE v2.0](https://github.com/AlexSnider/Mini-E-commerce-TS-Prisma), [v1.0](https://github.com/AlexSnider/Projeto-API-e-commerce-Node.js) - [YTTotalTime](https://github.com/AlexSnider/YoutubeTotalTime).
 
 ## Habilidades Técnicas:
 #### Linguagens de Programação: `JavaScript, TypeScript, Java Beginner`
