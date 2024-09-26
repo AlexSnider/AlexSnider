@@ -8,7 +8,7 @@ Atualmente, estou estudando e aplicado inúmeros conceitos aos meus projetos, a 
 
 ### Agradecimentos à [Vitor Hugo](https://www.linkedin.com/in/vitorhcs/) (mentor) por dedicar seu tempo na revisão dos projetos e novas implementações.
 
-## Projetos: [Aquila - API REST - TS (em desenvolvimento)](https://github.com/AlexSnider/Aquila-Project), [Minha Primeira API - JS](https://github.com/AlexSnider/Projeto-API-e-commerce-Node.js) - [YT Total Time](https://github.com/AlexSnider/YoutubeTotalTime).
+## Projetos: [Aquila - API REST - TS (em desenvolvimento)](https://github.com/AlexSnider/Aquila-Project), [Minha Primeira API - JS](https://github.com/AlexSnider/Projeto-API-e-commerce-Node.js), [YT Total Time](https://github.com/AlexSnider/YoutubeTotalTime).
 
 ## Habilidades Técnicas:
 #### Linguagens de Programação: `JavaScript, TypeScript, Java Beginner`
