@@ -8,19 +8,20 @@ Atualmente, estou estudando e aplicado inúmeros conceitos aos meus projetos, a 
 
 ### Agradecimentos à [Vitor Hugo](https://www.linkedin.com/in/vitorhcs/) (mentor) por dedicar seu tempo na revisão dos projetos e novas implementações.
 
-## Projetos: [API REST MINI-E-COMMERCE v2.0](https://github.com/AlexSnider/Mini-E-commerce-TS-Prisma), [v1.0](https://github.com/AlexSnider/Projeto-API-e-commerce-Node.js) - [YTTotalTime](https://github.com/AlexSnider/YoutubeTotalTime).
+## Projetos: [Aquila - API REST - TS (em desenvolvimento)](https://github.com/AlexSnider/Aquila-Project), [Minha Primeira API - JS](https://github.com/AlexSnider/Projeto-API-e-commerce-Node.js) - [YT Total Time](https://github.com/AlexSnider/YoutubeTotalTime).
 
 ## Habilidades Técnicas:
 #### Linguagens de Programação: `JavaScript, TypeScript, Java Beginner`
 #### Frameworks: `Express.js`
 #### Server Development: `Node.js, Spring Boot`
-#### Web Development: `HTML, CSS, React.js`
-#### Banco de Dados: `MySQL, PostgreSQL`
-#### O.R.M: `Sequelize – Prisma`
-#### Testes Unitários: `Jest - Studying`
-#### Sistemas de Containers: `Docker`
-#### Métricas (observabilidade): `OpenTelemetry – Jaeger Tracer`
-#### Documentações: `Swagger` <br/><br/>
+#### Web Development: `HTML, CSS, React.js*`
+#### Banco de Dados: `MySQL, PostgreSQL, MongoDB`
+#### O.R.M: `Sequelize, Prisma, Mongoose`
+#### Testes Unitários: `Jest, Vitest`
+#### Sistemas de Containers: `Docker, DockerHub`
+#### CI/CD: `GitHub Actions`
+#### Métricas (observabilidade): `OpenTelemetry, Jaeger Tracer`
+#### Documentações: `Swagger, Swagger Annotations` <br/><br/>
 
 <div>
    <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=AlexSnider&show_icons=true&theme=tokyonight"/>
