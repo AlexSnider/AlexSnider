@@ -1,6 +1,6 @@
 # Olá, seja muito bem vindo(a) ao meu GitHub!
 
-Me chamo Alex e sou desenvolvedor Back-End (API REST) há um ano.
+Me chamo Alex e sou desenvolvedor Back-End (API REST) há quase 2 anos.
 Durante minha jornada como Dev, adquiri maior afinidade no lado servidor da força.
 Atualmente, estou estudando e aplicado inúmeros conceitos aos meus projetos, a fim de alcançar o meu melhor potencial e uma oportunidade no mercado de trabalho.
 
@@ -21,7 +21,7 @@ Atualmente, estou estudando e aplicado inúmeros conceitos aos meus projetos, a 
 #### Banco de Dados: `MySQL, PostgreSQL, MongoDB`
 #### O.R.M: `Sequelize, Prisma, Mongoose`
 #### Testes Unitários: `Jest, Vitest`
-#### Sistemas de Containers: `Docker, DockerHub`
+#### Sistemas de Containers: `Docker, DockerHub, Test Containers`
 #### CI/CD: `GitHub Actions`
 #### Métricas (observabilidade): `OpenTelemetry, Jaeger Tracer`
 #### Documentações: `Swagger, Swagger Annotations` <br/><br/>
