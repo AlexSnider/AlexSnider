@@ -6,7 +6,7 @@ Atualmente, estou estudando e aplicado inúmeros conceitos aos meus projetos, a 
 
 ## Contato: [E-mail](https://linktr.ee/techdev8)
 
-### Agradecimentos à VITOR HUGO (mentor), por dedicar seu tempo na revisão dos projetos e novas implementações.
+### Agradecimentos à [VITOR HUGO](https://www.linkedin.com/in/vitorhcs/) (mentor), por dedicar seu tempo na revisão dos projetos e novas implementações.
 
 ## Projetos: 
 ### 1. [Aquila - API REST - TS (em desenvolvimento)](https://github.com/AlexSnider/Aquila-Project) <br/>
