@@ -14,7 +14,7 @@
    <h3>Agradecimentos à <a href="https://www.linkedin.com/in/vitorhcs/">VITOR HUGO</a> (mentor), por dedicar seu tempo na revisão dos projetos e novas implementações.</h3>
 </div>
 
-## Melhores Projetos:
+## Melhores Projetos
 
 <div align="left">
    <h3>1. <a href="https://github.com/AlexSnider/Aquila-Project">Aquila - API REST - TS (em desenvolvimento).</a></h3>
@@ -24,7 +24,7 @@
 
 
 <div align="center">
-   <h2>Habilidades Técnicas:</h2>
+   <h2>Habilidades Técnicas</h2>
    
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -38,7 +38,7 @@
 
 
 <div align="center">
-  <h2>Meu histórico no GitHub:</h2>
+  <h2>Meu histórico no GitHub</h2>
    <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=AlexSnider&show_icons=true&theme=tokyonight">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSnider&layout=compact&theme=tokyonight">
 </div>
