@@ -17,9 +17,9 @@
 ## Melhores Projetos:
 
 <div align="left">
-   <h3>1. <a href="https://github.com/AlexSnider/Aquila-Project">Aquila - API REST - TS (em desenvolvimento)</a></h3>
-   <h3>2. <a href="https://github.com/AlexSnider/Projeto-API-e-commerce-Node.js">Minha Primeira API - JS</a></h3>
-   <h3>3. <a href="https://github.com/AlexSnider/YoutubeTotalTime">YT Total Time</a></h3>
+   <h3>1. <a href="https://github.com/AlexSnider/Aquila-Project">Aquila - API REST - TS (em desenvolvimento).</a></h3>
+   <h3>2. <a href="https://github.com/AlexSnider/Projeto-API-e-commerce-Node.js">Minha Primeira API - JS.</a></h3>
+   <h3>3. <a href="https://github.com/AlexSnider/YoutubeTotalTime">You Tube Total Time.</a></h3>
 </div>
 
 
@@ -43,8 +43,9 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSnider&layout=compact&theme=tokyonight">
 </div>
 
+<br>
 <div align="center">
-   <h1>Contato:</h1>
-      <h2><a href="https://linktr.ee/techdev8">E-mail</a></h2>
+   <h2><a href="https://linktr.ee/techdev8">Contato - E-mail</a></h2>
+</div>
 </div>
 
