@@ -12,15 +12,14 @@
 
 <div align="center">
    <h3>Agradecimentos à <a href="https://www.linkedin.com/in/vitorhcs/">VITOR HUGO</a> (mentor), por dedicar seu tempo na revisão dos projetos e novas implementações.</h3>
-</div>
+</div> <br>
 
-## Melhores Projetos
-
-<div align="left">
+<div align="center">
+   <h2>Melhores Projetos</h2>
    <h3>1. <a href="https://github.com/AlexSnider/Aquila-Project">Aquila - Geo Sensors - TS 🚢</a></h3>
    <h3>2. <a href="https://github.com/AlexSnider/Projeto-API-e-commerce-Node.js">Minha Primeira API - JS 🥇</a></h3>
    <h3>3. <a href="https://github.com/AlexSnider/YoutubeTotalTime">You Tube Total Time 🚀</a></h3>
-</div>
+</div> <br>
 
 
 <div align="center">
@@ -46,6 +45,10 @@
 <br>
 <div align="center">
    <h1><a href="https://linktr.ee/techdev8">Contato 📧</a></h1>
+</div>
+
+<div align="center">
+   <h4>No matter how hard it may be, stay focused. 🎯</h4>
 </div>
 </div>
 
