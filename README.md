@@ -45,7 +45,7 @@
 
 <br>
 <div align="center">
-   <h1><a href="https://linktr.ee/techdev8">Contato - E-mail</a></h1>
+   <h1><a href="https://linktr.ee/techdev8">Contato 📧</a></h1>
 </div>
 </div>
 
