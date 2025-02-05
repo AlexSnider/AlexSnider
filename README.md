@@ -38,7 +38,7 @@
 
 
 <div align="center">
-  <h2>Meu histórico no GitHub</h2>
+  <h2>Meu Histórico no GitHub</h2>
    <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=AlexSnider&show_icons=true&theme=tokyonight">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSnider&layout=compact&theme=tokyonight">
 </div>
