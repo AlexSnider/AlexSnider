@@ -19,7 +19,7 @@
    <h3>1. <a href="https://github.com/AlexSnider/Aquila-Project">Aquila - Geo Sensors - TS 🚢</a></h3>
    <h3>2. <a href="https://github.com/AlexSnider/Projeto-API-e-commerce-Node.js">Minha Primeira API - JS 🥇</a></h3>
    <h3>3. <a href="https://github.com/AlexSnider/YoutubeTotalTime">YouTube Total Time 🚀</a></h3>
-</div> <br>
+</div>
 
 
 <div align="center">
