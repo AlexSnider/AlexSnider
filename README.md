@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-   <h2>Melhores Projetos</h2>
+   <h2>📂 Melhores Projetos</h2>
    <h3>1. <a href="https://github.com/AlexSnider/Aquila-Project">Aquila - Geo Sensors - TS 🚢</a></h3>
    <h3>2. <a href="https://github.com/AlexSnider/Projeto-API-e-commerce-Node.js">Minha Primeira API - JS 🥇</a></h3>
    <h3>3. <a href="https://github.com/AlexSnider/YoutubeTotalTime">YouTube Total Time 🚀</a></h3>
@@ -23,7 +23,7 @@
 
 
 <div align="center">
-   <h2>Habilidades Técnicas</h2>
+   <h2>🔧 Habilidades Técnicas</h2>
    
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
