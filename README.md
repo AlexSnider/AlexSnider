@@ -6,7 +6,7 @@
 
 <div align="center">
    <p>Me chamo Alex e sou desenvolvedor Back-End. <br>
-   Atualmente, estou estudando e aplicando inúmeros conceitos aos meus projetos a fim de alcançar o meu melhor potencial e uma oportunidade no mercado de trabalho.</p>
+   Atualmente, estou estudando e trabalhando no projeto Zé Preguiça. Aplico inúmeros conceitos aos meus projetos a fim de alcançar o meu melhor potencial e uma oportunidade no mercado de trabalho formal.</p>
 </div>
 
 <div align="center">
