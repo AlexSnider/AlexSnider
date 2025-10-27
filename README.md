@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-   <h3>Agradecimentos à <a href="https://www.linkedin.com/in/vitorhcs/">VITOR HUGO</a> (mentor), por dedicar seu tempo na revisão dos projetos e novos desafios.</h3>
+   <h3>Agradecimentos à <a href="https://www.linkedin.com/in/vitorhcs/">VITOR HUGO</a> (mentor), por ter dedicado seu tempo na revisão dos projetos e novos desafios, compartilhando infinitos conhecimentos!</h3>
 </div>
 <br>
 
