@@ -19,6 +19,7 @@
    <h3><a href="https://zepreguica.com">Zé preguiça - Motivação em Grupo - TS 🦥</a></h3>
    <p>O projeto Zé preguiça (lado back-end), é uma API REST que fornecerá endpoints para o aplicativo. Desenvolvido com Node.js, TypeScript, Serverless Framework e DynamoDB, o aplicativo permitirá uma experiência mágica aos usuários que precisam de uma força em grupo          para alavancar seus hobbies e motivações que ainda não foram muito exploradas.</p>
    <p>O código fonte encontra-se privado e sendo trabalhado em conjunto com um amigo, responsável pelo front-end.</p>
+   <h4>Estou ativamente trabalhando no projeto há semanas!</h4>
    <p>-----</p>
    <h3><a href="https://github.com/AlexSnider/Aquila-Project">Áquila - Geo Sensors - TS 🚢</a></h3>
    <p>O projeto Áquila é uma API REST para cadastro e organização de sensores geográficos. Desenvolvido com Node.js, TypeScript, Express e MongoDB, o sistema permite registrar sensores, agrupá-los e expor seus dados por meio de endpoints estruturados.</p>
